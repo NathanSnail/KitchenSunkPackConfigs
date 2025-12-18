@@ -458,13 +458,13 @@
 		ironWeight = 125
 		#Weight of selecting a Gold Backpack when an entity spawns with a backpack
 		#Range: 0 ~ 9999
-		goldWeight = 25
+		goldWeight = 0
 		#Weight of selecting a Diamond Backpack when an entity spawns with a backpack
 		#Range: 0 ~ 9999
-		diamondWeight = 5
+		diamondWeight = 0
 		#Weight of selecting a Netherite Backpack when an entity spawns with a backpack
 		#Range: 0 ~ 9999
-		netheriteWeight = 1
+		netheriteWeight = 0
 		#Minimum tier of backpack mobs are equipped with at mid local difficulty (above 1/3 of max, 0 is leather)
 		#Range: 0 ~ 6
 		minBackpackTierMidDifficulty = 1
