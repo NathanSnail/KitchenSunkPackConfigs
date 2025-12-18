@@ -1,0 +1,56 @@
+
+[durability]
+	#Enable durability on Smithing Templates
+	enableTemplateDurability = true
+	#Allow horse armor to be enchanted like regular armor
+	isHorseArmorEnchant = true
+	#Enable fletching table GUI
+	fletchingUse = true
+	#Enable wandering traders to sell treasure enchantments
+	wanderingEnchants = true
+	#Enable special tool displays (compass coords, clock time, spyglass info, recovery compass distance)
+	specialToolDisplay = true
+
+[stacking]
+	#Enable custom stack size increases
+	enableItemStackIncrease = true
+
+[enchanted_books]
+	#Enable custom enchanting system
+	customEnchanting = true
+	#Enable rarity override for enchanted books
+	enableBookRarity = true
+	#Allow weapon enchantments (e.g. Sharpness, Smite, Looting) to apply to tools like pickaxes, axes, and shovels
+	weaponEnchTools = true
+	#Allow normally mutually exclusive enchantments to coexist (e.g. Sharpness + Smite, Protection + Fire Prot, Infinity + Mending, Multishot + Piercing)
+	removeEnchMutex = true
+
+[anvil]
+	#Enable anvil repair/rename costs (false = free repairs/renames)
+	enableAnvilRepairCost = true
+	#Enable anvil XP requirement clamp (false = no 'Too Expensive', XP cost as % only)
+	enableAnvilRequirement = true
+	#Scaling factor for XP cost when using an anvil. Ex. 0.1 = 10%, 0.5 = 50%, 1.0 = 100%
+	#Range: 0.0 ~ 1.0
+	anvilXpScaling = 0.1
+	#Enable custom anvil additions (special item interactions)
+	anvilAdditions = true
+	#Enable Soulbound mechanic (Echo Shard in anvil)
+	soulboundItems = true
+	#Enable Diamond Durability mechanic (item undying from breaking from diamonds in anvil)
+	diamondDurability = true
+
+[visuals]
+	#Show a glint effect when wearing a full enchanted armor set
+	fullArmorEnchantGlint = true
+
+[combat]
+	#Enable blocking with swords (reflect, reduce, and cancel knockback)
+	swordBlocking = true
+	#Disable i-frames (invulnerability ticks) for projectile damage
+	projectileIFrames = true
+	#Enable extra bow inaccuracy and crit cancel if overdrawn (holding past 30 ticks)
+	bowUseInaccuracy = true
+	#Enable hold-to-attack autoswing for swords (continuous attacks while holding left-click)
+	swordAutoSwing = true
+

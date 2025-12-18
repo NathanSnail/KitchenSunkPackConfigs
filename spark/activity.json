@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "NathanSnail",
+      "uniqueId": "8a7d720a-b3c6-4cf2-8126-9e0933d12d2d"
+    },
+    "time": 1766026748572,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uPH7vZKtiR"
+    }
+  }
+]

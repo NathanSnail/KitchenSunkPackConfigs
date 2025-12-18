@@ -1,0 +1,5 @@
+
+[visual]
+	#Show custom durability-style stack bars & labels
+	doDurabilityStack = true
+
