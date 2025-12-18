@@ -1,7 +1,7 @@
 #Resource locations of disallowed actions. Trying to cast one of these will result in a mishap.
 actionDenyList = []
 #Should items fly out of the player's inventory when using Greater Teleport?
-greaterTeleportSplatsItems = true
+greaterTeleportSplatsItems = false
 #Should villagers take offense when you flay the mind of their fellow villagers?
 villagersOffendedByMindMurder = true
 #Resource locations of dimensions you can't Blink or Greater Teleport in.

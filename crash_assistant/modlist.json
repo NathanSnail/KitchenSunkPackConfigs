@@ -534,6 +534,13 @@
     "curseForgeHash": 3122710066,
     "modrinthHash": "a034d1752abd84dc188852dac1ef87fb8ab2247a"
   },
+  "eidolon_repraised-1.20.1-0.3.8.15.jar": {
+    "jarName": "eidolon_repraised-1.20.1-0.3.8.15.jar",
+    "modId": "eidolon",
+    "version": "0.3.8.15",
+    "curseForgeHash": 3646921466,
+    "modrinthHash": "0567b600fdc0073a6167e8d4834115ac69352e3a"
+  },
   "embeddium-0.3.31+mc1.20.1.jar": {
     "jarName": "embeddium-0.3.31+mc1.20.1.jar",
     "modId": "embeddium",
