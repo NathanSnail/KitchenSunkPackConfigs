@@ -476,7 +476,7 @@
 
 	[server.nerfs]
 		#Determines if too many backpacks in player's inventory cause slowness to the player
-		tooManyBackpacksSlowness = true
+		tooManyBackpacksSlowness = false
 		#Maximum number of backpacks in player's inventory that will not cause slowness
 		#Range: 1 ~ 27
 		maxNumberOfBackpacks = 1
