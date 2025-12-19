@@ -1568,6 +1568,13 @@
     "curseForgeHash": 1323485907,
     "modrinthHash": "fb009825144e608895e0c5e52d4fdbcc80b1105f"
   },
+  "trashslot-forge-1.20-15.1.1.jar": {
+    "jarName": "trashslot-forge-1.20-15.1.1.jar",
+    "modId": "trashslot",
+    "version": "15.1.1",
+    "curseForgeHash": 960363109,
+    "modrinthHash": "1b8bd0d11e18f1423c50183e9e040c4085817a9c"
+  },
   "tru.e-ending-v1.1.0c.jar": {
     "jarName": "tru.e-ending-v1.1.0c.jar",
     "modId": "mr_limesplatus_ending",
