@@ -406,20 +406,22 @@ ServerEvents.recipes((event) => {
     );
     // malum does their book wrong, we can't have a recipe
 
+    const mana_infusion = (mana, input, output) => {
+        event.custom({
+            type: "botania:mana_infusion",
+            input: input,
+            mana: mana,
+            output: output,
+        });
+    };
+
     event.forEachRecipe(
         { type: "minecraft:smelting", output: "eidolon:pewter_ingot" },
         (recipe) => {
             const json = recipe.json;
             const input = json.get("ingredient");
 
-            event.custom({
-                type: "botania:mana_infusion",
-                input: input,
-                mana: 100,
-                output: {
-                    item: "eidolon:pewter_ingot",
-                },
-            });
+            mana_infusion(100, input, Item.of("eidolon:pewter_ingot"));
         }
     );
 
@@ -429,6 +431,12 @@ ServerEvents.recipes((event) => {
     ]);
 
     event.shapeless(tome, ["9x minecraft:book"]);
+
+    mana_infusion(
+        1000,
+        Item.of("minecraft:prismarine_crystals"),
+        Item.of("ae2:certus_quartz_crystal")
+    );
 });
 
 PlayerEvents.loggedIn((event) => {
