@@ -109,6 +109,48 @@
     "curseForgeHash": 98480002,
     "modrinthHash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
   },
+  "ars_additions-1.20.1-1.6.7.jar": {
+    "jarName": "ars_additions-1.20.1-1.6.7.jar",
+    "modId": "ars_additions",
+    "version": "1.20.1-1.6.7",
+    "curseForgeHash": 931716635,
+    "modrinthHash": "bd6ee7e36d0255c8b9da2840a97fafddebf1bc81"
+  },
+  "ars_artifice-1.20.1-2.0.4.jar": {
+    "jarName": "ars_artifice-1.20.1-2.0.4.jar",
+    "modId": "ars_artifice",
+    "version": "1.20.1-2.0.4",
+    "curseForgeHash": 2324986642,
+    "modrinthHash": "ff7a0837e2d75ba1faa1cda0fac94bd6a64af639"
+  },
+  "ars_elemental-1.20.1-0.6.7.8.jar": {
+    "jarName": "ars_elemental-1.20.1-0.6.7.8.jar",
+    "modId": "ars_elemental",
+    "version": "0.6.7.8",
+    "curseForgeHash": 4289995767,
+    "modrinthHash": "fedd4064ac48108ce56f87f89478a2783c8f26bd"
+  },
+  "ars_nouveau-1.20.1-4.12.7-all.jar": {
+    "jarName": "ars_nouveau-1.20.1-4.12.7-all.jar",
+    "modId": "ars_nouveau",
+    "version": "4.12.7",
+    "curseForgeHash": 685417741,
+    "modrinthHash": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170"
+  },
+  "arsdelight-1.1.6.jar": {
+    "jarName": "arsdelight-1.1.6.jar",
+    "modId": "arsdelight",
+    "version": "1.1.6",
+    "curseForgeHash": 3190024520,
+    "modrinthHash": "e75cec6d684b910a905ca138a19c4b7be55eeae1"
+  },
+  "arseng-1.2.0.jar": {
+    "jarName": "arseng-1.2.0.jar",
+    "modId": "arseng",
+    "version": "1.2.0",
+    "curseForgeHash": 3147537475,
+    "modrinthHash": "0866c840609d8872e84a4d52bbb2542699e88755"
+  },
   "art_of_forging-1.8.4-1.20.1.jar": {
     "jarName": "art_of_forging-1.8.4-1.20.1.jar",
     "modId": "art_of_forging",
@@ -270,6 +312,13 @@
     "curseForgeHash": 1600873306,
     "modrinthHash": "09cc4f33dfcfa2f4763ae433bd98f3b09e0caf00"
   },
+  "callfromthedepth_-3.7.7.jar": {
+    "jarName": "callfromthedepth_-3.7.7.jar",
+    "modId": "callfromthedepth_",
+    "version": "3.7.7",
+    "curseForgeHash": 3368572091,
+    "modrinthHash": "a4f67b3068dcafbbabe9a4da6901ac98d128f2f4"
+  },
   "chat_heads-0.14.2-forge-1.20.jar": {
     "jarName": "chat_heads-0.14.2-forge-1.20.jar",
     "modId": "chat_heads",
@@ -346,6 +395,13 @@
     "version": "8.13",
     "curseForgeHash": 1813952632,
     "modrinthHash": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad"
+  },
+  "colorful_blocks-1.0.0-forge-1.20.1.jar": {
+    "jarName": "colorful_blocks-1.0.0-forge-1.20.1.jar",
+    "modId": "colorful_blocks",
+    "version": "1.0.0",
+    "curseForgeHash": 1297158604,
+    "modrinthHash": "4a86adfaffcbc68b48fec23d74a76816a9e2cbe7"
   },
   "colorfulhearts-forge-1.20.1-4.3.16.jar": {
     "jarName": "colorfulhearts-forge-1.20.1-4.3.16.jar",
@@ -506,13 +562,6 @@
     "curseForgeHash": 4053708632,
     "modrinthHash": "08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38"
   },
-  "domesticationinnovation-1.7.2-1.20.1.jar": {
-    "jarName": "domesticationinnovation-1.7.2-1.20.1.jar",
-    "modId": "domesticationinnovation",
-    "version": "1.7.2",
-    "curseForgeHash": 871986655,
-    "modrinthHash": "1de3060fa3708d4ddfbadfdf528dc5a44e357aba"
-  },
   "doubledoors-1.20.1-7.2.jar": {
     "jarName": "doubledoors-1.20.1-7.2.jar",
     "modId": "doubledoors",
@@ -610,6 +659,20 @@
     "version": "17.1.20",
     "curseForgeHash": 3529265314,
     "modrinthHash": "7942d3bf21a5060fb070f0809bf43a165b163fb5"
+  },
+  "EnigmaticDice-1.2.4-1.20.1.jar": {
+    "jarName": "EnigmaticDice-1.2.4-1.20.1.jar",
+    "modId": "enigmaticdice",
+    "version": "1.2.4-1.20.1",
+    "curseForgeHash": 3822634019,
+    "modrinthHash": "e7c2b333e1a0de503ac408d3e6deacec0865fb9d"
+  },
+  "EnigmaticLegacy-2.30.1.jar": {
+    "jarName": "EnigmaticLegacy-2.30.1.jar",
+    "modId": "enigmaticlegacy",
+    "version": "2.30.1",
+    "curseForgeHash": 2723526890,
+    "modrinthHash": "8aa671114aee6d8ec1e3aac5c13dab84224bf2bb"
   },
   "entity_model_features_1.20.1-forge-3.0.7.jar": {
     "jarName": "entity_model_features_1.20.1-forge-3.0.7.jar",
@@ -764,6 +827,13 @@
     "version": "1.1.1",
     "curseForgeHash": 3910681865,
     "modrinthHash": "a545e7a347b203f30a4d58585f6e5691e4c99b16"
+  },
+  "hex_ars_link-1.20.1-0.9.2.3.jar": {
+    "jarName": "hex_ars_link-1.20.1-0.9.2.3.jar",
+    "modId": "hex_ars_link",
+    "version": "1.20.1-0.9.2.3",
+    "curseForgeHash": 2969886357,
+    "modrinthHash": "1e571b6733e73a4d7cc929fdad518a73dfe4a7c5"
   },
   "hexal-forge-1.20.1-0.3.1.jar": {
     "jarName": "hexal-forge-1.20.1-0.3.1.jar",
@@ -1113,6 +1183,13 @@
     "curseForgeHash": 393521612,
     "modrinthHash": "069396e689ae887d065c8d61b7945e685fbcc65b"
   },
+  "not_enough_glyphs-1.20.1-3.2.1.1.jar": {
+    "jarName": "not_enough_glyphs-1.20.1-3.2.1.1.jar",
+    "modId": "not_enough_glyphs",
+    "version": "1.20.1-3.2.1.1",
+    "curseForgeHash": 2283304330,
+    "modrinthHash": "208bac55822f07c348c7848c57c867ec54aa02e5"
+  },
   "notenoughanimations-forge-1.11.1-mc1.20.1.jar": {
     "jarName": "notenoughanimations-forge-1.11.1-mc1.20.1.jar",
     "modId": "notenoughanimations",
@@ -1147,6 +1224,19 @@
     "version": "1.8.0",
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
+  },
+  "Origins-1.10.2+mc.1.20.x.jar": {
+    "jarName": "Origins-1.10.2+mc.1.20.x.jar",
+    "modId": "origins",
+    "curseForgeHash": 627606298,
+    "modrinthHash": "aeb2b6e0d69b7ceee9971c90fcf9aa6713a3c298"
+  },
+  "origins-plus-plus-2.4.jar": {
+    "jarName": "origins-plus-plus-2.4.jar",
+    "modId": "origins-plus-plus",
+    "version": "2.4",
+    "curseForgeHash": 422207214,
+    "modrinthHash": "d8913c041bcb21fd9a5a7abe94cd06e91e050241"
   },
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
@@ -1218,6 +1308,13 @@
     "curseForgeHash": 1812222466,
     "modrinthHash": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3"
   },
+  "Psi-1.20.1-102.jar": {
+    "jarName": "Psi-1.20.1-102.jar",
+    "modId": "psi",
+    "version": "2.0.0",
+    "curseForgeHash": 2793232395,
+    "modrinthHash": "fb45df310579991d8fab2db1b3c6fb5326940bef"
+  },
   "PuzzlesLib-v8.0.15-1.20.1-Forge.jar": {
     "jarName": "PuzzlesLib-v8.0.15-1.20.1-Forge.jar",
     "modId": "puzzleslib",
@@ -1280,13 +1377,6 @@
     "version": "0.8.0.11",
     "curseForgeHash": 3684028936,
     "modrinthHash": "7cae606158a0ddcecd0c68c1d82a29ad89da6ce2"
-  },
-  "reliquary-1.20.1-2.0.55.1326.jar": {
-    "jarName": "reliquary-1.20.1-2.0.55.1326.jar",
-    "modId": "reliquary",
-    "version": "2.0.55.1326",
-    "curseForgeHash": 201138875,
-    "modrinthHash": "7519bbf049234c365dacfbf70f7ec0b18d5f29da"
   },
   "resourcefullib-forge-1.20.1-2.1.29.jar": {
     "jarName": "resourcefullib-forge-1.20.1-2.1.29.jar",
@@ -1560,6 +1650,13 @@
     "version": "7.9.6+1.20.1-forge",
     "curseForgeHash": 719793514,
     "modrinthHash": "ab072c12a309ce46b26e1b2b7ed2c6c15716b366"
+  },
+  "toms_storage-1.20-1.7.1.jar": {
+    "jarName": "toms_storage-1.20-1.7.1.jar",
+    "modId": "toms_storage",
+    "version": "1.7.1",
+    "curseForgeHash": 793745760,
+    "modrinthHash": "8b70aed9e35ad78fdc2f9fcb94a29dc64ba8d757"
   },
   "toomanyrecipeviewers-0.7.0+mc.20.1.jar": {
     "jarName": "toomanyrecipeviewers-0.7.0+mc.20.1.jar",
